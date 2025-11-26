@@ -1,4 +1,4 @@
-# QR Code Component (Vanilla)
+# QR Code Component (Vanilla Web)
 
 A clean, responsive QR code component built using vanilla HTML and CSS.
 
