@@ -2,7 +2,7 @@
 
 A clean, responsive QR code component built using vanilla HTML and CSS.
 
-![Alt text](./images/my-picture.png)
+![Alt text](./images/desktop-design.jpg)
 
 ## Key Features & Benefits
 
