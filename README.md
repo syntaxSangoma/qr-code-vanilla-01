@@ -32,7 +32,7 @@ A clean, responsive QR code component built using vanilla HTML and CSS.
 
 3.  **Open `index.html` in your web browser:**  Simply double-click the `index.html` file or right-click and choose "Open with" and select your browser.
 
-## Usage Examples & API Documentation (if applicable)
+## Usage Examples
 
 The QR code component is designed to be used as a static visual element. To change the content displayed within the QR code, you would need to replace the `image-qr-code.png` image with a different QR code image generated for your desired URL or data.
 
